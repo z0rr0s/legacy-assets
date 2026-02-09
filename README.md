@@ -8,3 +8,6 @@ Notes:
 - Temporary testing data
 - Legacy assets (2018)
 - Cleanup performed after migration
+
+## Migration note
+Temporary archive added for testing
