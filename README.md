@@ -11,3 +11,5 @@ Notes:
 
 ## Migration note
 Temporary archive added for testing
+
+Hint: the original archive exists in a legacy snapshot.
