@@ -6,7 +6,7 @@ Most archives were removed after cleanup, but historical snapshots may still exi
 
 Notes:
 - Temporary testing data
-- Legacy assets (2018)
+- Legacy assets (2019)
 - Cleanup performed after migration
 
 ## Migration note
